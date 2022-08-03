@@ -18,7 +18,7 @@
   <build>
 	<plugins>
 		<groupId>org.apache.maven.plugins</groupId>
-		<artifactId>mavene-compiler-plugin</artifactId>
+		<artifactId>mavene-comipler-plugin</artifactId>
 		<version>3.6.0</version>
 		<configuration>
 			<source>11</source>
